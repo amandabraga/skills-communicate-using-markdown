@@ -3,6 +3,11 @@
 ``` javascript
 console.log("Olá, mundo!")
 ```
+## Lista de tarefas
+
+- [ ] Apples
+- [ ] Bananas
+- [x] Pineapples
 
 ###### menor header
 
